@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Thomas Warin"
-resume_title:                   "Student in Science (Senior High) Class of ‘24"
+resume_title:                   "Student in Physics Engineering - Class of ‘28"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "thomas.warin@inoveo.ai"
@@ -23,7 +23,7 @@ resume_contact_address:         "267 Rachel Est, Montreal"
 resume_header_contact_info:     "267 Rachel Est, Montreal • (514) 794-3556 • thomas.warin@inoveo.ai"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hey ! I'm Thomas Warin, a senior high science student and entrepreneur focused on practical AI applications in manufacturing through my startup, Inoveo. My academic and extracurricular activities, including developing a medical diagnostic algorithm and leading humanitarian projects, reflect my commitment to applying science for real-world benefits. I am a passionate of sports from playing soccer, to cycling, to sailing. My journey is about leveraging technology to solve practical problems and making a tangible impact in society.</p>"
+resume_header_intro: "<p>Hey ! I'm Thomas Warin, a student in Physics Engineering and entrepreneur focused on practical AI applications in manufacturing through my startup, Inoveo. My academic and extracurricular activities, including developing a medical diagnostic algorithm and leading humanitarian projects, reflect my commitment to applying science for real-world benefits. I am a passionate of sports from playing soccer, to cycling, to sailing. My journey is about leveraging technology to solve practical problems and making a tangible impact in society.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

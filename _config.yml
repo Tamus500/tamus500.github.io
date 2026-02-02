@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Thomas Warin"
-resume_title:                   "Gap Year - Studying Mandarin in Singapore with EF Education First"
+resume_title:                   "First Year student @ University of Waterloo | Honours Science and Business Co-op"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "thomas.warin@inoveo.ai"
@@ -23,7 +23,10 @@ resume_contact_address:         "267 Rachel Est, Montreal"
 resume_header_contact_info:     "267 Rachel Est, Montreal • (514) 794-3556 • thomas.warin@inoveo.ai"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hey ! I'm Thomas Warin, a student, currently doing a gap year in Singapore and an entrepreneur focused on practical AI applications in manufacturing through my startup, Inoveo. My academic and extracurricular activities, including developing a medical diagnostic algorithm and leading humanitarian projects, reflect my commitment to applying science for real-world benefits. I am a passionate of sports from playing soccer, to cycling, to sailing. My journey is about leveraging technology to solve practical problems and making a tangible impact in society.</p>"
+resume_header_intro: "<p>Hi, I’m Thomas Warin, a first-year Honours Science and Business Co-op student at the University of Waterloo and an entrepreneur focused on applying artificial intelligence to real-world manufacturing challenges through my startup, Inoveo.
+My academic and extracurricular experiences include developing a medical diagnostic algorithm and leading humanitarian initiatives, reflecting my strong commitment to using science and technology for tangible societal impact. Alongside my technical and entrepreneurial pursuits, I am highly engaged in sports, including Football, cycling, and sailing.
+My interests center on leveraging emerging technologies to solve practical problems and create meaningful, measurable value.
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

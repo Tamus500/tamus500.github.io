@@ -14,7 +14,7 @@ resume_name:                    "Thomas Warin"
 resume_title:                   "Rising Sophomore @ University of Waterloo | Honours Science and Business Co-op"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "thomas.warin@inoveo.ai"
+resume_contact_email:           "twarin@uwaterloo.ca"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(514) 794-3556"

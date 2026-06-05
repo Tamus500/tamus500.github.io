@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Thomas Warin"
-resume_title:                   "First Year student @ University of Waterloo | Honours Science and Business Co-op"
+resume_title:                   "Rising Sophomore @ University of Waterloo | Honours Science and Business Co-op"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "thomas.warin@inoveo.ai"
@@ -23,9 +23,7 @@ resume_contact_address:         "267 Rachel Est, Montreal"
 resume_header_contact_info:     "267 Rachel Est, Montreal • (514) 794-3556 • thomas.warin@inoveo.ai"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi, I’m Thomas Warin, a first-year Honours Science and Business Co-op student at the University of Waterloo and an entrepreneur focused on applying artificial intelligence to real-world manufacturing challenges through my startup, Inoveo.
-My academic and extracurricular experiences include developing a medical diagnostic algorithm and leading humanitarian initiatives, reflecting my strong commitment to using science and technology for tangible societal impact. Alongside my technical and entrepreneurial pursuits, I am highly engaged in sports, including Football, cycling, and sailing.
-My interests center on leveraging emerging technologies to solve practical problems and create meaningful, measurable value.
+resume_header_intro: "<p>Hi, I’m Thomas Warin, a rising sophomore Honours Science and Business Co-op student at the University of Waterloo and an entrepreneur focused on applying artificial intelligence to real-world business and manufacturing challenges. My academic and extracurricular experiences include developing a medical diagnostic algorithm, leading humanitarian initiatives, and contributing to technology projects in sports and major events. Alongside my technical and entrepreneurial pursuits, I am highly engaged in sports, including Football as I currently play for the University of Waterloo, cycling, sailing, and motorsports. I also have a strong interest in Asia, having studied Mandarin in Singapore and travelled across several countries in the region, including China. My interests center on leveraging emerging technologies to solve practical problems and create meaningful, measurable value.
 </p>"
 
 # use "yes" to display the email contact button,
